@@ -88,6 +88,9 @@ This model can support:
 Online Retail II dataset (UCI Machine Learning Repository):
 http://archive.ics.uci.edu/dataset/502/online+retail+ii
 
+The dataset used in this project is not included in the repository due to size constraints.
+
+
 ---
 
 ## Notes
